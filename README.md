@@ -2,9 +2,9 @@
 
 Final-year B.E. (AI & ML) student building full-stack web apps and applied ML projects. I work across the MERN stack (React, Node, Express, MongoDB) and the Python ML stack (PyTorch, scikit-learn, FastAPI, Streamlit).
 
-I've shipped 9 projects end-to-end — 5 full-stack web apps and 4 AI/ML apps — most of them deployed and runnable. I care more about projects that actually work than about chasing tech for the sake of it.
+I've shipped 9 projects end-to-end — 5 full-stack web apps and 4 AI/ML apps — most of them deployed and runnable.
 
-Currently looking for full-time roles in Full Stack, AI/ML, or Data Science.
+Currently looking for internship and full-time roles in Full Stack, AI/ML or Data Science.
 
 ## Tech Stack
 
